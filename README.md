@@ -11,4 +11,4 @@ A web-based application that generates color gradients using random hex color va
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/color-gradient.git
+   git clone https://github.com/nagarjun-nayak/custom-color-gradient.git
